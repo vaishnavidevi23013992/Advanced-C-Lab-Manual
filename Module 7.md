@@ -291,7 +291,8 @@ int main() {
 
 Output:
 
-![Screenshot 2025-04-25 155639](https://github.com/user-attachments/assets/831636a0-c81e-4b40-ab17-b72b528d64a1)
+![image](https://github.com/user-attachments/assets/c28ca5b9-7e08-4a1a-9d3e-1ff7f28e02ca)
+
 
 Result:
 Thus, the program is verified successfully
